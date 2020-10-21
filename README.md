@@ -1,6 +1,6 @@
 # Hackerrank: 30 Days of Code
 
-hackerrank.com
+URL: https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
 Learn to code in 30 days. Learn if-else statements, recursion, data structures, oops and more.
 
@@ -21,3 +21,18 @@ Learn to code in 30 days. Learn if-else statements, recursion, data structures, 
 - [Day 12: Inheritance](Challenges/Day12-Inheritance)
 - [Day 13: Abstract Classes](Challenges/Day13-AbstractClasses)
 - [Day 14: Scope](Challenges/Day14-Scope)
+- [Day 15: Linked List](Challenges/Day15-LinkedList)
+- [Day 16: Exceptions - String to Integer](Challenges/Day16-Exceptions)
+- [Day 17: More Exceptions](Challenges/Day17-MoreExceptions)
+- [Day 18: Queues and Stacks](Challenges/Day18-QueuesStacks)
+- [Day 19: Interfaces](Challenges/Day19-Interfaces)
+- [Day 20: Sorting](Challenges/Day20-Sorting)
+- [Day 21: Generics](Challenges/Day21-Generics)
+- [Day 22: Binary Search Trees](Challenges/Day22-BinarySearchTrees)
+- [Day 23: BST Level-Order Traversal](Challenges/Day23-BSTLevelOrderTraversal)
+- [Day 24: More Linked Lists](Challenges/Day24-MoreLinkedLists)
+- [Day 25: Running Time and Complexity](Challenges/Day25-RunningTimeComplexity)
+- [Day 26: Nested Logic](Challenges/Day26-NestedLogic)
+- [Day 27: Testing](Challenges/Day27-Testing)
+- [Day 28: RegEx, Patterns, and Intro to Databases](Challenges/Day28-RegExPatternsIntroDatabases)
+- [Day 29: Bitwise AND](Challenges/Day29-BitwiseAND)
