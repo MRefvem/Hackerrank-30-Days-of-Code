@@ -1,0 +1,13 @@
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day2-Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
