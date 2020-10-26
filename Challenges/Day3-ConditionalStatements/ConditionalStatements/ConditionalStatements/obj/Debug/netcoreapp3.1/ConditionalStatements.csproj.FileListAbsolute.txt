@@ -1,0 +1,13 @@
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.exe
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.deps.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day3-ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.genruntimeconfig.cache

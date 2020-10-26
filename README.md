@@ -9,7 +9,7 @@ Learn to code in 30 days. Learn if-else statements, recursion, data structures, 
 - [Day 0: Hello, World.](Challenges/Day0-Hello,World)
 - [Day 1: Data Types](Challenges/Day1-DataTypes)
 - [Day 2: Operators](Challenges/Day2-Operators)
-- [Day 3: Intro to Conditional Statements](Challenges/Day3-IntroConditionalStatements)
+- [Day 3: Intro to Conditional Statements](Challenges/Day3-ConditionalStatements)
 - [Day 4: Class vs. Instance](Challenges/Day4-ClassVsInstance)
 - [Day 5: Loops](Challenges/Day5-Loops)
 - [Day 6: Let's Review](Challenges/Day6-Review)

@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\Day0-Hello,World"
+    "\\Challenges\\Day0-Hello,World",
+    "\\Challenges\\Day1-DataTypes",
+    "\\Challenges\\Day2-Operators",
+    "\\Challenges\\Day2-Operators\\Operators"
   ],
-  "SelectedNode": "\\Challenges\\Day2-Operators",
+  "SelectedNode": "\\Challenges\\Day2-Operators\\Operators\\Operators.sln",
   "PreviewInSolutionExplorer": false
 }
