@@ -1,0 +1,13 @@
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.csproj.CoreCompileInputs.cache
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\bin\Debug\netcoreapp3.1\ClassVsInstance.exe
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\bin\Debug\netcoreapp3.1\ClassVsInstance.deps.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\bin\Debug\netcoreapp3.1\ClassVsInstance.runtimeconfig.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\bin\Debug\netcoreapp3.1\ClassVsInstance.runtimeconfig.dev.json
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\bin\Debug\netcoreapp3.1\ClassVsInstance.dll
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\bin\Debug\netcoreapp3.1\ClassVsInstance.pdb
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.dll
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.pdb
+C:\Users\mkref\source\repos\Hackerrank-30-Days-of-Code\Challenges\Day4-ClassVsInstance\ClassVsInstance\ClassVsInstance\obj\Debug\netcoreapp3.1\ClassVsInstance.genruntimeconfig.cache
